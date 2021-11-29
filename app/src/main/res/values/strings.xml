@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Multi Screen App</string>
+    <string name="heading">Welcome to Central Perk!</string>
+    <string name="textEdit1">Item1</string>
+    <string name="textEdit2">Item2</string>
+    <string name="textEdit3">Item3</string>
+    <string name="placeOrder">Place Order</string>
+    <string name="order_msg">Please Wait…</string>
+</resources>

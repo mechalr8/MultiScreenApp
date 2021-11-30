@@ -11,6 +11,7 @@
         android:theme="@style/Theme.MultiScreenApp">
         <activity
             android:name=".OrderActivity"
+            android:parentActivityName=".MainActivity"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
